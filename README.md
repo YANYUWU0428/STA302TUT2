@@ -1,3 +1,3 @@
 # STA302TUT2
 
-this porject is
+公开课
